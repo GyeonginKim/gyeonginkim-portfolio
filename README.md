@@ -59,15 +59,16 @@ Planned topics:
 
 Each lab will document its objective, environment, reproduction steps, diagnostic evidence, root cause, resolution, and lessons learned where applicable.
 
-## Repository Structure
+## Planned Repository Structure
+
+The following structure represents the planned organization of this portfolio. Directories and documents will be added as the corresponding labs are implemented and verified.
 
 ```text
 gyeonginkim-portfolio/
 ├── README.md
 ├── docs/
 │   ├── architecture.md
-│   ├── troubleshooting.md
-│   └── incident-report.md
+│   └── troubleshooting.md
 ├── labs/
 │   ├── git/
 │   ├── cicd/
@@ -76,6 +77,12 @@ gyeonginkim-portfolio/
 ├── scripts/
 └── examples/
 ```
+
+## Project Status
+
+**Current phase:** Portfolio setup and hands-on lab preparation.
+
+**Next milestone:** Build and document a reproducible GitLab CI/CD troubleshooting scenario.
 
 Directories and lab content will be added as the corresponding exercises are implemented.
 
